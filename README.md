@@ -1,4 +1,4 @@
-## Welcome to Tony's house!
+## Welcome to Tony's Page!
 
 This is [Tony's](https://github.com/tony8888lrz/tony8888lrz.github.io/edit/main/README.md) webpage and he is a study monster.
 
@@ -8,7 +8,8 @@ This is [Tony's](https://github.com/tony8888lrz/tony8888lrz.github.io/edit/main/
 2020-2024 [Southwest University](http://www.swu.edu.cn/)  
 2024-? [University Of Auckland](https://www.auckland.ac.nz/en.html)  
 
-
+### About  
+Runze Liao is currently a Bachelor of College of Computer and Information Science, Southwest University, China. He will receive B.S. from Southwest University, China, in 2024, and M.S. from xx University, xx, in 2026, and Ph.D. from xx, xx, in 2030. His research interests include computer vision, text detection, OCR, and deep learning. His work will be published in several top journals and conferences including IEEE TPAMI, IEEE TVCG, CVPR, ICCV and AAAI.
 ### Research
 
 Currently He is a research rookie. 
