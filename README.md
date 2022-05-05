@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Tony's house!
 
-You can use the [editor on GitHub](https://github.com/tony8888lrz/tony8888lrz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is [Tony's](https://github.com/tony8888lrz/tony8888lrz.github.io/edit/main/README.md) webpage and he is a study monster.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education background
+2008-2014 [ZongBei Primary School](https://baike.baidu.com/item/%E6%A3%95%E5%8C%97%E5%B0%8F%E5%AD%A6/5468346?fr=aladdin)  
+2014-2020 [Chengdu Experimental Foreign Language School (Western Campus)](http://www.cdswxq.com/)  
+2020-2024 [Southwest University](http://www.swu.edu.cn/)  
+2024-? [University Of Auckland](https://www.auckland.ac.nz/en.html)  
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research
+
+Currently He is a research rookie. 
 
 ```markdown
 Syntax highlighted code block
