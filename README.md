@@ -6,7 +6,7 @@ This is [Tony's](https://github.com/tony8888lrz/tony8888lrz.github.io/edit/main/
 ### Education background
 2008-2014 [ZongBei Primary School](https://baike.baidu.com/item/%E6%A3%95%E5%8C%97%E5%B0%8F%E5%AD%A6/5468346?fr=aladdin)  
 2014-2020 [Chengdu Experimental Foreign Language School (Western Campus)](http://www.cdswxq.com/)  
-2020-2024 [Southwest University](http://www.swu.sedu.cn/)  
+2020-2024 [Southwest University](http://www.swu.edu.cn/)  
 2024-? [?](https://www.cuhk.edu.hk/)  
 
 ### About  
