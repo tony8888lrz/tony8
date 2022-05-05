@@ -19,7 +19,7 @@ Currently He is a research rookie.
 print("He is reaaly a handsome boy")
 ```
 
-For more information about this study monster, you can find him in [pornhub](http://pornhub.com)
+For more information about this study monster, you can find him in [pornhub](http://pornhub.com).
 
 ### Workspace
 
