@@ -5,7 +5,7 @@ This is [Tony's](https://github.com/tony8888lrz/tony8888lrz.github.io/edit/main/
 ### Preference
 His favorite director is Stanley Kubrick.  
 His favorite band is Radiohead & Pink Floyd.  
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=18161816&auto=1&height=66"></iframe>
+
 
 ### Education background
 2008-2014 [ZongBei Primary School](https://baike.baidu.com/item/%E6%A3%95%E5%8C%97%E5%B0%8F%E5%AD%A6/5468346?fr=aladdin)  
